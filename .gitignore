@@ -9,11 +9,11 @@
 /node_modules
 
 # IDEs and editors
-/.idea
-.project
-.classpath
+/.ideas
+.projects
+.classpaths
 .c9/
-*.launch
+*.launchs
 .settings/
 *.sublime-workspace
 
